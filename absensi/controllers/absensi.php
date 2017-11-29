@@ -488,7 +488,7 @@ function mahasiswa_edit_ak(){
 				  $this->load->view('e_dosen/_layout',$data);	
 	}
 
-	function tes_buat_github()
+	function tes_buat_github_aja()
 	{
 		echo "Hellow git";
 	}
