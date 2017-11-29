@@ -487,6 +487,11 @@ function mahasiswa_edit_ak(){
 											(0, 1, 'menu_admin_elearning_dosen');
 				  $this->load->view('e_dosen/_layout',$data);	
 	}
+
+	function tes_buat_github_aja()
+	{
+		echo "Hellow git";
+	}
 	
 
 	}
